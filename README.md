@@ -483,3 +483,5 @@ For issues, questions, or feedback:
 **⚠️ Disclaimer**: This tool is for research and educational purposes. Deepfake detection is an ongoing challenge. Results should not be considered definitive proof. For critical applications, professional forensic analysis is recommended.
 
 **Made with ❤️ for forensic multimedia analysis**
+#   T r u t h S c a n  
+ 
